@@ -1,0 +1,15 @@
+{
+  "signIn": "Sign In",
+  "email": "Email",
+  "forgotPassword": "Forgot password?",
+  "password": "Password",
+  "dontHaveAnAccount": "Dont have an account?",
+  "enterYourEmailAndPassword": "Enter Your Email And Password",
+  "login": "LOGIN",
+  "signUp": "Sign up",
+  "signInWith": "Sign In with",
+  "firstCreateYourAccount": "First Create Your Account",
+  "fullName": "Full name",
+  "confirmYourPassword": "Confirm your password",
+  "alreadyHaveAnAccount": "Already have an account?"
+}
